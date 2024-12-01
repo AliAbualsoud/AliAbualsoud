@@ -7,7 +7,7 @@ Software Engineer
 My name is Ali and I am a student in London studying Computer Programming and Analysis at Fanshawe College. I enjoy learning both front-end and back-end development. I've been learning high-level languages like Java, Python, c# as well as low-level languages like C++ and C, to broaden my skills. I have also picked up an interest in web design and mobile app development, in particular hybrid apps!
 
 * 🌍  I'm based in Ontario, Canada
-* 🖥️  See my portfolio at [Linkedin Profile](http://www.linkedin.com/in/ali-abualsoud-b797a22a7/)
+* 🖥️  See my portfolio at [Linkedin Profile](https://www.linkedin.com/in/ali-abualsoud/)
 * ✉️  You can contact me at [ali.abualsoud@hotmail.com](mailto:ali.abualsoud@hotmail.com)
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on exciting projects designed to enhance both coding experience and teamwork dynamics!
